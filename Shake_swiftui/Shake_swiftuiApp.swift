@@ -11,7 +11,7 @@ import SwiftUI
 struct Shake_swiftuiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartView()
         }
     }
 }
